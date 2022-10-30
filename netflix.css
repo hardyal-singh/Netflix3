@@ -26,13 +26,13 @@ font-weight: bold;
 #first{background-color: red;
 color:white;
 border: none;
-border-radius:10px;}
+}
 
 #second{background-color: green;
 color:white;
 border: none;
 margin-left:10px;
-border-radius:10px;}
+}
 
 #second:hover,#first:hover{background-color:white;
 color:black;
